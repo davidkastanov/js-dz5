@@ -11,7 +11,7 @@ switch (a) {
         console.log(`Ти вибрав сік`);
         break;
     default:
-        console.log(`Сталась помилка, спробуй пізніше :0`);
+        console.log(`Сталась помилка, спробуй пізніше`);
 }
 
 
@@ -100,7 +100,7 @@ switch (month) {
         break;
 
     default:
-        console.log("Сталась помилка, спробуй пізніше! :0");
+        console.log("Сталась помилка, спробуй пізніше! ");
 
 }
 
